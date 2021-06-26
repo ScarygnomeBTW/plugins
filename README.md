@@ -1,7 +1,7 @@
 # plugins
 
 
- -# ScaryQoL
+ -#ScaryQoL
  
   -add shift click to teleportation jewelry (example: shift click "rub" on dueling ring)
  
